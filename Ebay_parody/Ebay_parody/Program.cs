@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace Ebay_parody {
     class Program {
         static void Main(string[] args) {
-            
         }
     }
 }

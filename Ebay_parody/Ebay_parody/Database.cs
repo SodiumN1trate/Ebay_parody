@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ebay_parody {
-    class Seller {
+    class Database {
 
     }
 }

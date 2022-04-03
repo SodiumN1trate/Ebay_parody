@@ -6,5 +6,6 @@ using System.Threading.Tasks;
 
 namespace Ebay_parody {
     class Product {
+
     }
 }
